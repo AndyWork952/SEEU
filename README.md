@@ -32,3 +32,7 @@ https://www.bilibili.com/video/BV11J411n7Zv?p=24
 9分18秒开始
 
 https://flutter.dev/docs/get-started/install/macos
+
+## How to pull and push the code
+
+https://www.youtube.com/watch?v=oFYyTZwMyAg
